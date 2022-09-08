@@ -7,13 +7,13 @@ sites:
     url: https://www.kactus.com
   - name: Bird Office
     url: https://www.bird-office.com
-assignees:
-  - thcottin
-  - Chambeur
-  - brunoalvarelho
-  - BirdOffice
-  - GregHubs
-  - mehdi-farsi
+#assignees:
+#  - thcottin
+#  - Chambeur
+#  - brunoalvarelho
+#  - BirdOffice
+#  - GregHubs
+#  - mehdi-farsi
     
 status-website:
   #cname: status.kactus.com
