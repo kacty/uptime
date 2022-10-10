@@ -5,33 +5,21 @@ repo: uptime # The name of this repository
 sites:
   - name: Kactus
     url: https://www.kactus.com
-  - name: Bird Office
-    url: https://www.bird-office.com
-#assignees:
-#  - thcottin
-#  - Chambeur
-#  - brunoalvarelho
-#  - BirdOffice
-#  - GregHubs
-#  - mehdi-farsi
     
 status-website:
-  cname: status.kactus.com
-#  baseUrl: /uptime # where "repo" is your repository name
+  #cname: status.kactus.com
+  baseUrl: /uptime # where "repo" is your repository name
   logoUrl: https://www.kactus.com/assets/logos/kactus/only-logo-49339dc1e6ddaaaf34089190d4430e5532d132017d25c6f2a4e19a793648b5b9.png
-  name: BOK Uptime
+  name: Kactus Uptime
   introTitle: Status page
-  #introMessage: Our status page
-  navbar:
+ navbar:
     - title: Status
       href: /
     - title: Kactus
       href: https://www.kactus.com
   theme: light
-  
-i18n:
-  footer: One kactus a day keeps the doctor away
 
   
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
