@@ -2,7 +2,7 @@
   {
     "name": "Kactus",
     "url": "https://www.kactus.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.kactus.com.ico",
+    "icon": "https://www.kactus.com/favicon-16x16.png",
     "slug": "kactus",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 728,
-    "timeDay": 728,
-    "timeWeek": 728,
-    "timeMonth": 720,
-    "timeYear": 728,
+    "time": 737,
+    "timeDay": 773,
+    "timeWeek": 773,
+    "timeMonth": 735,
+    "timeYear": 737,
     "dailyMinutesDown": {}
   }
 ]
