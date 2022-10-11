@@ -5,12 +5,13 @@ repo: uptime # The name of this repository
 sites:
   - name: Kactus
     url: https://www.kactus.com
+    icon: https://www.kactus.com/favicon-16x16.png
     
 status-website:
   #cname: status.kactus.com
   baseUrl: /uptime # where "repo" is your repository name
   logoUrl: https://www.kactus.com/assets/logos/kactus/only-logo-49339dc1e6ddaaaf34089190d4430e5532d132017d25c6f2a4e19a793648b5b9.png
-  name: Kactus Uptime
+  name: Kactus
   introTitle: Status page
   navbar:
     - title: Status
