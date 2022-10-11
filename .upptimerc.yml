@@ -10,11 +10,11 @@ sites:
     #maxResponseTime: 5000
     
 status-website:
-  cname: status.kactus.com
+  cname: https://status.kactus.com
   favicon: https://www.kactus.com/favicon-16x16.png
   #baseUrl: /uptime # where "repo" is your repository name
   logoUrl: https://www.kactus.com/assets/logos/kactus/only-logo-49339dc1e6ddaaaf34089190d4430e5532d132017d25c6f2a4e19a793648b5b9.png
-  name: Kactus
+  name: Kactus 
   introTitle: Status page
   navbar:
     - title: Status
