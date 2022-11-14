@@ -5,18 +5,16 @@
     "icon": "https://www.kactus.com/favicon-16x16.png",
     "slug": "kactus",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 796,
-    "timeDay": 508,
-    "timeWeek": 773,
-    "timeMonth": 826,
+    "timeDay": 531,
+    "timeWeek": 737,
+    "timeMonth": 818,
     "timeYear": 796,
-    "dailyMinutesDown": {
-      "2022-11-13": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
