@@ -6,17 +6,15 @@
     "slug": "kactus",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 802,
-    "timeDay": 844,
-    "timeWeek": 775,
-    "timeMonth": 822,
-    "timeYear": 802,
-    "dailyMinutesDown": {
-      "2023-02-02": 4
-    }
+    "time": 801,
+    "timeDay": 664,
+    "timeWeek": 747,
+    "timeMonth": 814,
+    "timeYear": 801,
+    "dailyMinutesDown": {}
   }
 ]
