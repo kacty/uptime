@@ -4,19 +4,19 @@
     "url": "https://www.kactus.com",
     "icon": "https://www.kactus.com/favicon-16x16.png",
     "slug": "kactus",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 967,
+    "time": 966,
     "timeDay": 14400,
     "timeWeek": 5299,
     "timeMonth": 2022,
-    "timeYear": 967,
+    "timeYear": 966,
     "dailyMinutesDown": {
-      "2023-05-31": 7
+      "2023-05-31": 0
     }
   }
 ]
