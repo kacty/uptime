@@ -6,9 +6,9 @@
     "slug": "kactus",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 848,
     "timeDay": 750,
@@ -16,7 +16,6 @@
     "timeMonth": 718,
     "timeYear": 853,
     "dailyMinutesDown": {
-      "2024-05-05": 5,
       "2023-10-26": 16,
       "2023-09-06": 14
     }
